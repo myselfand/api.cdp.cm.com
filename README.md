@@ -1,2 +1,2 @@
-# o2.mail.oda.com
+# https://crewmail.crewclothing.co.uk/
 #suddomain takeover for bug-bounty
