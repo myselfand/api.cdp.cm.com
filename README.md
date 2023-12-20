@@ -1,2 +1,2 @@
-# api.cdp.cm.com
+# o2.mail.oda.com
 #suddomain takeover for bug-bounty
