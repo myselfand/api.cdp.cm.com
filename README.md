@@ -1,2 +1,2 @@
-# http://leaderboard.segment.com
+# http://learn.segment.com
 #suddomain takeover for bug-bounty
